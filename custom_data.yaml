@@ -1,0 +1,15 @@
+
+train: /content/drive/MyDrive/TRAFFIC/yolov5/train_data/images/train/  
+val:   /content/drive/MyDrive/TRAFFIC/yolov5/train_data/images//val/ 
+test:  # test images (optional)
+
+# Classes
+names:
+  0: green
+  1: red
+  2: yellow
+
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
